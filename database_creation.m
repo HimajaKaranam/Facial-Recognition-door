@@ -1,9 +1,9 @@
-%% Database Creation
+% Database Creation
 clc;
 clear;
 close all;
 warning ('off','all');
-%%
+%
 cam = webcam('USB2.0 PC CAMERA');
 preview(cam);
     pause(5)
