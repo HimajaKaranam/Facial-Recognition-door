@@ -1,9 +1,8 @@
-%% FACE DETECTION AND FACE VERIFICATION USING LOCAL BINARY PATTERN
+% FACE DETECTION AND FACE VERIFICATION USING LOCAL BINARY PATTERN
 clc;
 clear;
 close all;
 warning ('off','all');
-%%
 cam = webcam('USB Video Device');
 preview(cam);
     pause(5)
