@@ -1,4 +1,4 @@
-%% Feature extraction
+% Feature extraction
 clc;
 close all;
 clear all;
